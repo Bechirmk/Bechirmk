@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on e-learning platform <br>🤝 I’m looking for help with some ai tools<br>🌱 I’m currently learning python<br>📚I'm sutdent<br>
+🔭 I’m currently working on e-learning platform <br>🤝 I’m looking for help with some ai tools<br>🌱 I’m currently learning python<br>📚 I'm sutdent<br>
 
 
 ## 🌐 Socials:
